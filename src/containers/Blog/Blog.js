@@ -14,7 +14,7 @@ class Blog extends Component {
 
     state = {
         auth: false
-    }
+    };
     // state = {
     //
     //     posts: [],
